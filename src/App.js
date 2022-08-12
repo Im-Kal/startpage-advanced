@@ -7,7 +7,7 @@ function App () {
   return (
     <div className="App" style={{ display: 'flex' }}>
       <Github title="Github" url="https://gtrend.yapie.me/" />
-      <Reddit title="Reddit" url="https://www.reddit.com/.json?feed=8e04eedd5784ca57d1f5a98eee34b166452fd4ee&user=ImKal_" />
+      <Reddit title="Reddit" url="https://www.reddit.com/r/ADHD+AdithyaKalany+announcements+disneyvacation+dubai+entitledparents+harrypotter+HolUp+ihadastroke+insaneparents+Lenovo+LibreWolf+linux+linuxmasterrace+linuxmemes+ObsidianMD+privacy+selfhosted+softwaregore+talesfromtechsupport+theyknew+todayilearned+unixporn+windows+Windows10+youngpeopleyoutube" />
       <ProductHunt title="Product_Hunt" url="https://www.producthunt.com/feed?category=undefined" />
     </div>
   )
